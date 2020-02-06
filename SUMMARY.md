@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Art](art.md)
 * [Conferences](conferences.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
