@@ -3,6 +3,8 @@
 * [Introduction](README.md)
 * [Art](art.md)
 * [Conferences](conferences.md)
+* [Design](design/README.md)
+  * [Fonts](design/fonts.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [macOS](macos/README.md)
@@ -13,6 +15,4 @@
   * [Cloud](engineering/cloud.md)
   * [GraphQL](engineering/graphql.md)
   * [Stream Processing](engineering/stream-processing.md)
-* [Design](design/README.md)
-  * [Fonts](design/fonts.md)
 
