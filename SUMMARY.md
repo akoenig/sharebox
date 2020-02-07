@@ -18,5 +18,5 @@
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
-* [Tools](macos/README.md)
+* [Tools](tools.md)
 
