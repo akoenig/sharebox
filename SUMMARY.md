@@ -13,4 +13,6 @@
   * [Cloud](engineering/cloud.md)
   * [GraphQL](engineering/graphql.md)
   * [Stream Processing](engineering/stream-processing.md)
+* [Design](design/README.md)
+  * [Fonts](design/fonts.md)
 
