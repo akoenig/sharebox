@@ -12,6 +12,6 @@
   * [Stream Processing](engineering/stream-processing.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
-* [Tools](tools.md)
 * [Podcasts](podcasts.md)
+* [Tools](tools.md)
 
