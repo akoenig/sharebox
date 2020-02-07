@@ -9,6 +9,7 @@
   * [AI](engineering/ai.md)
   * [Architecture](engineering/architecture.md)
   * [Auth](engineering/auth.md)
+  * [Containers](engineering/containers.md)
   * [Infrastructure as Code](engineering/infrastructure-as-code.md)
   * [Kubernetes](engineering/kubernetes.md)
   * [Monitoring](engineering/monitoring.md)
@@ -17,5 +18,5 @@
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
-* [Tools](tools.md)
+* [Tools](macos/README.md)
 
