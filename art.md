@@ -1,4 +1,4 @@
 # Art
 
-* [Simon Stålenhag](http://www.simonstalenhag.se/)
+* [Simon Stålenhag](https://www.simonstalenhag.se/)
 
