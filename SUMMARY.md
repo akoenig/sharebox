@@ -12,7 +12,6 @@
   * [Stream Processing](engineering/stream-processing.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
-* [macOS](macos/README.md)
-  * [Apps](macos/apps.md)
+* [Tools](tools.md)
 * [Podcasts](podcasts.md)
 
