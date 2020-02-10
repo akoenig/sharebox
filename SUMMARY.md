@@ -9,6 +9,7 @@
   * [AI](engineering/ai.md)
   * [Architecture](engineering/architecture.md)
   * [Auth](engineering/auth.md)
+  * [CI/CD](engineering/ci-cd.md)
   * [Containers](engineering/containers.md)
   * [Data](engineering/data.md)
   * [GraphQL](engineering/graphql.md)
