@@ -12,6 +12,7 @@
   * [CI/CD](engineering/ci-cd.md)
   * [Containers](engineering/containers.md)
   * [Data](engineering/data.md)
+  * [Git](engineering/git.md)
   * [GraphQL](engineering/graphql.md)
   * [Infrastructure as Code](engineering/infrastructure-as-code.md)
   * [Kubernetes](engineering/kubernetes.md)
