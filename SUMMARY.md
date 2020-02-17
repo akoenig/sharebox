@@ -20,6 +20,7 @@
   * [Monitoring](engineering/monitoring.md)
   * [React](engineering/react.md)
   * [Stream Processing](engineering/stream-processing.md)
+  * [TypeScript](engineering/typescript.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
