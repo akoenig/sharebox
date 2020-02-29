@@ -20,11 +20,12 @@
   * [Node.js](engineering/nodejs.md)
   * [Monitoring](engineering/monitoring.md)
   * [React](engineering/react.md)
+  * [Scalability](engineering/scalability.md)
   * [Stream Processing](engineering/stream-processing.md)
   * [TypeScript](engineering/typescript.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
 * [Tools](macos/README.md)
-  * [Firefox](tools/firefox.md)
+  * [Firefox](macos/firefox.md)
 
