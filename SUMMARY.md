@@ -5,6 +5,7 @@
 * [Conferences](conferences.md)
 * [Design](design/README.md)
   * [Fonts](design/fonts.md)
+  * [Icons](design/icons.md)
 * [Engineering](engineering/README.md)
   * [Android](engineering/android.md)
   * [AI](engineering/ai.md)
