@@ -6,6 +6,7 @@
 * [Design](design/README.md)
   * [Fonts](design/fonts.md)
   * [Icons](design/icons.md)
+  * [Illustrations](design/illustrations.md)
 * [Engineering](engineering/README.md)
   * [Android](engineering/android.md)
   * [AI](engineering/ai.md)
