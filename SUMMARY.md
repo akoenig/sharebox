@@ -28,6 +28,7 @@
 * [Environment](environment.md)
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
+* [Science](science.md)
 * [Tools](macos/README.md)
   * [Firefox](macos/firefox.md)
 
