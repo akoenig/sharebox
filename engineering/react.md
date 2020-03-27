@@ -1,5 +1,6 @@
 # React
 
+* [gqless](https://gqless.dev/) – A GraphQL Client for binding queries without actually writing queries 🎉
 * [react-open-doodles](https://github.com/lunahq/react-open-doodles) – The wrapper library of [Open Doodles](https://www.opendoodles.com/).
 * [rendition](https://github.com/balena-io-modules/rendition) – Nice looking component library built with [styled-components](https://styled-components.com/)
 * [evergreen](https://evergreen.segment.com/) – Very clean component library.
