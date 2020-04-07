@@ -4,6 +4,7 @@
 * [Art](art.md)
 * [Conferences](conferences.md)
 * [Design](design/README.md)
+  * [Colors](design/colors.md)
   * [Fonts](design/fonts.md)
   * [Icons](design/icons.md)
   * [Illustrations](design/illustrations.md)
