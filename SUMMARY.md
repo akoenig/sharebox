@@ -32,6 +32,9 @@
 * [Learning](learning.md)
 * [Podcasts](podcasts.md)
 * [Science](science.md)
+* [Today I Learned](today-i-learned/README.md)
+  * [Visual Studio Code](today-i-learned/visual-studio-code/README.md)
+    * [Sorting files in file browser](today-i-learned/visual-studio-code/sorting-files-in-file-browser.md)
 * [Tools](macos/README.md)
   * [Firefox](macos/firefox.md)
 
