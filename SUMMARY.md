@@ -27,6 +27,7 @@
   * [Security](engineering/security.md)
   * [Scalability](engineering/scalability.md)
   * [Stream Processing](engineering/stream-processing.md)
+  * [SQL](engineering/sql.md)
   * [TypeScript](engineering/typescript.md)
 * [Environment](environment.md)
 * [Learning](learning.md)
