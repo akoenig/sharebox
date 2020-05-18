@@ -19,6 +19,7 @@
   * [Data](engineering/data.md)
   * [Git](engineering/git.md)
   * [GraphQL](engineering/graphql.md)
+  * [JavaScript](engineering/javascript.md)
   * [Infrastructure as Code](engineering/infrastructure-as-code.md)
   * [Kubernetes](engineering/kubernetes.md)
   * [Node.js](engineering/nodejs.md)
