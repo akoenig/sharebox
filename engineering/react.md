@@ -1,5 +1,6 @@
 # React
 
+* [React Spectrum](https://react-spectrum.adobe.com/) – React implementation of Adobe's design system, Spectrum.
 * [React Flow](https://github.com/wbkd/react-flow) – Great library for creating flow visualizations.
 * [gqless](https://gqless.dev/) – A GraphQL Client for binding queries without actually writing queries 🎉
 * [react-open-doodles](https://github.com/lunahq/react-open-doodles) – The wrapper library of [Open Doodles](https://www.opendoodles.com/).
